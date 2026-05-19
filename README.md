@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Diksha
 
-<!--
-**bhardwajdiksha724-stack/bhardwajdiksha724-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Aspiring Data Scientist & AI/ML Enthusiast  
+🌱 Currently learning Machine Learning and NLP
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- C / C++
+- Machine Learning
+- NLP
+- MS Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+### IBM AI/ML Intern
+- Built an NLP chatbot
+- Learned ML model implementation
+- Worked with Python & Generative AI tools
+
+## 📫 Connect With Me
+📧 bhardwajdiksha724@gmail.com  
+💼 LinkedIn: linkedin.com/in/diksha-bhardwaj-3bb902294
+
